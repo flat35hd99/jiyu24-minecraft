@@ -1,0 +1,12 @@
+# Minecraft files
+plugins/
+world/
+world_nether/
+world_the_end/
+logs/
+*.log
+usercache.json
+version_history.json
+.console_history
+
+*.jar
